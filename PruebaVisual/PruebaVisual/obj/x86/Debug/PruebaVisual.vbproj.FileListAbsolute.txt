@@ -2,10 +2,10 @@ C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\bin\Debug\PruebaVisual.pdb
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\bin\Debug\PruebaVisual.xml
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.Form1.resources
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.Resources.resources
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.exe
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.xml
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.pdb
+C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.FRM_Principal.resources
