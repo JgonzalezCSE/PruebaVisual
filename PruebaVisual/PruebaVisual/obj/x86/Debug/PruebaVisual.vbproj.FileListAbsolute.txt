@@ -9,3 +9,4 @@ C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.xml
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.pdb
 C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.FRM_Principal.resources
+C:\Users\Desarrollo\Documents\GitProjects\PruebaVisual\PruebaVisual\PruebaVisual\obj\x86\Debug\PruebaVisual.Formulario_Secundario.resources
